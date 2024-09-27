@@ -1,0 +1,5 @@
+outs:
+- md5: 48fa0348cc400af91720253684863408
+  size: 3610
+  hash: md5
+  path: Inventory.csv
